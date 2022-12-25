@@ -1,0 +1,41 @@
+dikdörtgen=
+Karşılıklı kenar uzunlukları eşit ve bütün açıları 90° olan dörtgene dikdörtgen denir. 
+Dikdörtgen kapalı bir şekildir. 
+Dört kenarı vardır. Karşılıklı kenar uzunlukları birbirine eşittir. İkisi uzun, ikisi kısadır. 
+Karşılıklı kenarları birbirine paraleldir. 
+Dört köşesi vardır, köşelerine konulan büyük harflerle adlandırılır. 
+Dört dik açısı vardır, iç açılarının toplamı 360° dir. 
+
+ üçgen=
+Düzlem geometrisinin temel şekillerinden biridir. Bir üçgenin üç köşesi ve bu köşeleri birleştiren, doğru parçalarından oluşan üç kenarı vardır. Bir Üçgenin iç açılarının toplamı 180° dış açılarının toplamı 360°'dir.
+
+Üçgenin üç köşesi vardır, köşelerine konulan büyük harflerle adlandırılır. Üçgenin iç açıları toplamı 180° dir. 
+
+Üç kenarı vardır. 
+
+Üçgenin kenarları karşılarındaki köşenin küçük harfleri ile adlandırılır.                                                                                                                                     
+
+
+kare=Kenar uzunlukları eşit ve bütün açıları 90° olan dörtgene kare denir.
+Kare kapalı bir şekildir. 
+Dört kenarı vardır. Bütün kenarları birbirine eşittir. 
+Karşılıklı kenarları paraleldir. 
+Dört köşesi vardır. Köşelerine konulan büyük harflerle adlandırılır. 
+Dört açısı vardır. Açıların ölçüsü 90° dir. Karenin iç açılarının toplamı 360° dir. 
+ 
+
+
+çember=
+Düzlemde sabit bir noktadan eşit uzaklıktaki noktalar kümesine çember denir. 
+
+
+Çember üzerindeki iki noktayı birleştiren doğru parçasına kiriş denir. [CD] kirişi gibi.
+En uzun kiriş merkezden geçen kiriştir.O merkezinden geçen [AB] kirişine çemberin çapı denir.Çemberi iki noktada kesen doğrulara kesen denir. d2 doğrusu çemberi K ve L noktalarında kestiğine göre, kesendir.Çemberi bir noktada kesen doğruya teğet denir. d1 doğrusu çemberi T noktasında kestiğinden teğettir.
+
+
+paralelkenar=
+Karşılıklı kenarları eşit ve paralel olan dörtgenlere paralelkenar denir. Bir dörtgende karşılıklı kenarlar paralel ise eşit, eşit ise paralel olmak zorundadırlar.
+
+
+yamuk=
+Yamukta, alt ve üst tabanlar birbirine paraleldir. Paralel olmayan kenarlara ait taban ve tepe açıları karşı durumlu açıdır yani toplamları 180 derecedir. Köşegen uzunlukları ikizkenar yamukta eşittir. 
