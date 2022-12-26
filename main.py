@@ -451,7 +451,7 @@ def Yamuk():
 
     ekran.exitonclick()
 
-Yamuk()
+OruntuYamuk()
 
 
 
